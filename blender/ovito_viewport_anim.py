@@ -31,7 +31,7 @@ for h in bpy.app.handlers.frame_change_pre[:]:
 # Read LAMMPS multi-frame dump (OVITO format)
 # -----------------------------------------------------------------------------
 ruta_archivo = "/ruta/a/simulacion.dump"  # <-- set your path
-positions = {}       # frame -> [(x,y,z), ...]
+positions = {}  # frame -> [(x,y,z), ...]
 frame_list = []
 
 with open(ruta_archivo, "r") as f:
@@ -130,6 +130,7 @@ sphere.location = (0, 0, 0)
 base_obj.hide_viewport = True
 base_obj.hide_render = True
 
+
 # -----------------------------------------------------------------------------
 # Frame handler: update atom positions
 # -----------------------------------------------------------------------------
@@ -147,5 +148,6 @@ def update_atoms(scene):
     for idx, v in enumerate(me.vertices):
         v.co = coords[idx]
     me.update()
+
 
 bpy.app.handlers.frame_change_pre.append(update_atoms)
